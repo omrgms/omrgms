@@ -40,6 +40,7 @@
 
 <img align="left" alt="Figma" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
+<br /> 
 <br />
 <br />
 
@@ -51,5 +52,4 @@
 
 [<img align="left" alt="HackerRank" width="40px" style="margin-top:10px;margin-left:25px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />](https://www.hackerrank.com/profile/omrgms "HackerRank")
 
-<br /> 
-<br />
+
