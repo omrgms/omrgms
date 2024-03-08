@@ -36,9 +36,10 @@
 
 <img align="left" alt="Webstorm" width="40px" style="margin:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" />
 
-<img align="left" alt="Postman" width="40px" style="margin:10px; padding-top: 4px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-
-<img align="left" alt="Figma" width="40px" style="margin:10px; padding-top: 4px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<div style="margin-top: 20px;">
+    <img align="left" alt="Postman" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+    <img align="left" alt="Figma" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+</div>
 
 <br /> 
 <br />
