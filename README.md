@@ -1,35 +1,54 @@
-## <h1 align="center">Hi there, I'm Ömer. 👋</h1> 
+# Hey!
 
-## Reach out to me
+<h3 align="center">
+  I have over two years of experience in web development, focusing on frontend development using TypeScript, Vue, Nuxt, and Next. I continuously follow modern technologies to manage and develop frontend projects. Additionally, I actively work on the backend side of my independent projects using Node.js and MongoDB. I am always looking to improve myself and enjoy applying the knowledge and skills I've acquired throughout this process.
+</h3>
 
-<a href="https://www.linkedin.com/in/omrgms" target="_blank">
-  <img align="left" alt="omrgms's LinkedIn" width="40px" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-</a>
-<a href="https://www.hackerrank.com/profile/omrgms" target="_blank">
-  <img align="left" alt="omrgms's HackerRank" width="40px" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
-</a>
+---
 
-<br/>
+## Skills:
 
-## Languages and Tools
+<img align="left" alt="JavaScript" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
-<p align="left">
-  <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://vuejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://nuxtjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" width="40" height="40"/> </a>
-  <a href="https://nextjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
-   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://html.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-   <a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="datagrip" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="webstorm" width="40" height="40"/> </a>
-  <a href="https://www.figma.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p> 
+<img align="left" alt="TypeScript" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+
+<img align="left" alt="Vue" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
+
+<img align="left" alt="Nuxt" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
+
+<img align="left" alt="Next" width="40px" style="margin:10px;" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+
+<img align="left" alt="React" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="Node.js" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="Express" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+
+<img align="left" alt="Mongodb" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<img align="left" alt="Jenkins" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+
+<img align="left" alt="SQL" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="Sass" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+<img align="left" alt="Tailwind" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+
+<img align="left" alt="Webstorm" width="40px" style="margin:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" />
+
+<img align="left" alt="Postman" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+
+<img align="left" alt="Figma" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+
+<br/> <br/>
+
+## Contact:
+
+[<img align="left" alt="Linkedin" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/cf846a2550be6e669b14945f266c52ce941c98b0/public/icons/linkedin/linkedin.svg" />](https://www.linkedin.com/in/omrgms "My Linkedin")
+
+[<img align="left" alt="Twitter" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/omrrgms "Twitter")
+
+[<img align="left" alt="HackerRank" width="40px" style="margin-top:10px;margin-left:25px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />](https://www.hackerrank.com/profile/omrgms "HackerRank")
 
 <br/> <br/>
 
