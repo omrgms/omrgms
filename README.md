@@ -36,13 +36,7 @@
 
 <img align="left" alt="Figma" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
-  
-
-
-<br /> 
-<br />
-<br />
-<br />
+<br><br>
 
 ## Contact:
 
@@ -51,5 +45,3 @@
 [<img align="left" alt="Twitter" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/omrrgms "Twitter")
 
 [<img align="left" alt="HackerRank" width="40px" style="margin-top:10px;margin-left:25px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />](https://www.hackerrank.com/profile/omrgms "HackerRank")
-
-
