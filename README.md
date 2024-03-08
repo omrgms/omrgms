@@ -18,8 +18,6 @@
 
 <img align="left" alt="Next" width="40px" style="margin:10px;" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
 
-<img align="left" alt="React" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
 <img align="left" alt="Node.js" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="Express" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
@@ -28,7 +26,7 @@
 
 <img align="left" alt="Jenkins" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 
-<img align="left" alt="SQL" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Postman" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
 <img align="left" alt="Sass" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
@@ -36,10 +34,10 @@
 
 <img align="left" alt="Webstorm" width="40px" style="margin:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" />
 
-<div style="margin-top: 20px;">
-    <img align="left" alt="Postman" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-    <img align="left" alt="Figma" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-</div>
+<img align="left" alt="Figma" width="40px" style="margin:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+
+  
+
 
 <br /> 
 <br />
