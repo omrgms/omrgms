@@ -1,7 +1,7 @@
 # Hey!
 
 <h3 align="center">
-  I have over two years of experience in web development, focusing on frontend development using TypeScript, Vue, Nuxt and Next. I continuously follow modern technologies to manage and develop frontend projects. Additionally, I actively work on the backend side of my independent projects using Node.js and MongoDB. I am always looking to improve myself and enjoy applying the knowledge and skills I've acquired throughout this process.
+  I have over two years of experience in web development, focusing on frontend development using Vue, Nuxt, React and Next. I continuously follow modern technologies to manage and develop frontend projects. Additionally, I actively work on the backend side of my independent projects using Node.js and MongoDB. I am always looking to improve myself and enjoy applying the knowledge and skills I've acquired throughout this process.
 </h3>
 
 ---
